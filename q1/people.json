@@ -1,0 +1,28 @@
+{
+  "patients": [
+    {
+      "id": 123,
+      "surname" : "K",
+      "given_name" : "Guru",
+      "age" : 19
+    },
+    {
+      "id": 125,
+      "surname" : "Tan",
+      "given_name" : "Bak Kwa",
+      "age" : 22
+    },
+    {
+      "id": 128,
+      "surname" : "Mohd",
+      "given_name" : "Sheik",
+      "age" : 21
+    },
+    {
+      "id": 130,
+      "surname" : "Penelope",
+      "given_name" : "Kay",
+      "age" : 20
+    }
+  ]
+}

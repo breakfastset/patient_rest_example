@@ -1,0 +1,40 @@
+{
+  "patients": [
+    {
+      "patient_id": 123,
+      "surname" : "K",
+      "given_name" : "Guru",
+      "dob" : "31-03-2007",
+      "gender" : "male",
+      "id_no" : "T0799888B",
+      "address" : "99 Whampoa Drive"
+    },
+    {
+      "patient_id": 125,
+      "surname" : "Tan",
+      "given_name" : "Bak Kwa",
+      "dob" : "03-10-2004",
+      "gender" : "male",
+      "id_no" : "T0499777X",
+      "address" : "50 Tuas Drive"
+    },
+    {
+      "patient_id": 128,
+      "surname" : "Mohd",
+      "given_name" : "Sheik",
+      "dob" : "11-05-2005",
+      "gender" : "male",
+      "id_no" : "T0599665Z",
+      "address" : "10 Tampines Road"
+    },
+    {
+      "patient_id": 130,
+      "surname" : "Penelope",
+      "given_name" : "Kay",
+      "dob" : "09-12-2006",
+      "gender" : "female",
+      "id_no" : "T0699333C",
+      "address" : "123 Telok Banglah Drive"
+    }
+  ]
+}
